@@ -1,0 +1,9 @@
+body{
+  background-color: pink;
+
+}
+@font-face {
+font-family: 'BubbleGum';
+font-style: normal;
+font-weight: normal;
+src: local('BubbleGum'), url('Bubblegum.woff') format('woff');
